@@ -16,7 +16,7 @@
 ![Savarezi GitHub stats](https://github-readme-stats.vercel.app/api?username=Savarezi&show_icons=true&theme=radical)
 
 ##
-**"Programar é como desvendar um quebra-cabeça infinito, onde cada linha de código é uma peça que contribui para a solução."**
+*"Programar é como desvendar um quebra-cabeça infinito, onde cada linha de código é uma peça que contribui para a solução."*
 
 
 
