@@ -27,7 +27,16 @@
 ##
 *"Programar é como desvendar um quebra-cabeça infinito, onde cada linha de código é uma peça que contribui para a solução."*
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Savarezi}/count.svg" /></p> 
+<br></div>
 
 
     
