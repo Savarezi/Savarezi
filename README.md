@@ -15,9 +15,14 @@
    <img align="center" alt="Paty-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Paty-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
+
+
     #
 
 ![Savarezi GitHub stats](https://github-readme-stats.vercel.app/api?username=Savarezi&show_icons=true&theme=radical)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Savarezi&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ##
 *"Programar é como desvendar um quebra-cabeça infinito, onde cada linha de código é uma peça que contribui para a solução."*
