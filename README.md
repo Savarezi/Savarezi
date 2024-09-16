@@ -2,6 +2,9 @@
 
 - 🌱 Estudando Análise de Dados com Python & Análise e Desenvolvimento de sistemas✅
 - 📫 contactar-me no e-mail:patysavarezi@hotmail.com✅
+- 
+tableau:https://public.tableau.com/app/profile/patricia.oliveira8640/vizzes
+
 - 😄 Ela/Dela🏳️‍⚧️
 - ##
 - <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
