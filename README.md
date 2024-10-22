@@ -12,7 +12,7 @@
 #
 
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patr%C3%ADcia-oliveira-a457892b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/savarezi)
 
   ##
    <div style="display: inline_block"><br>
