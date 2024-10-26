@@ -36,7 +36,7 @@
 
 
 ##
-*""Programming is like unraveling an infinite puzzle, where each line of code is a piece that contributes to the solution."."*
+*"Programming is like unraveling an infinite puzzle, where each line of code is a piece that contributes to the solution"*
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
