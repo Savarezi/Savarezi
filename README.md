@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=header"/>
 
-# Olá! Eu sou a Patrícia de Oliveira ♈
+<h1 align="center">👩‍💻 Hello, World!</h1>
+<h2 align="center">Eu sou a <strong>Patrícia de Oliveira</strong> ✨💜</h2>
 
 -   🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.
 - 📫 Contato: **patysavarezi@hotmail.com**
