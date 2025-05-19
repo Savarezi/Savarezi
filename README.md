@@ -38,9 +38,10 @@
 
 ---
 
-### ✨ Frase
+### ✨ Frase  
 
-> *"Programar é como resolver um quebra-cabeça infinito!"*
+> *"Programar é como resolver um quebra-cabeça infinito!"*  
+
 
 ---
 
