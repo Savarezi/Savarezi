@@ -4,8 +4,12 @@
 
 - 🌱 Estudando **Análise de Dados com Python** e **Análise e Desenvolvimento de Sistemas**
 - 📫 Contato: **patysavarezi@hotmail.com**
+- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/savarezi" target="_blank" style="vertical-align:middle;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" />
+</a> [Clique aqui](https://www.linkedin.com/in/savarezi) 
 - 📊 Tableau: [Clique aqui](https://public.tableau.com/app/profile/patricia.oliveira8640/vizzes)
 - 😄 Pronomes: **Ela/Dela** 🏳️‍⚧️
+
 
 ---
 
