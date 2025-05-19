@@ -25,6 +25,26 @@
   <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img align="center" alt="React" height="30" width="40"<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100"/>
+  <img align="center" alt="React" height="30" width="80" <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/>
+  <img align="center" alt="React" height="30" width="80" <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100"/>
+  <img align="center" alt="React" height="30" width="40"<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+  <img align="center" alt="React" height="30" width="100"<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100"/>
+  <img align="center" alt="React" height="30" width="80"<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/>
+  
+
+
+
+
+  
+
+  
+
+
+
+
+
+
 
 
 
