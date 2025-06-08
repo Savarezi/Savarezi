@@ -2,7 +2,7 @@
 
 <h1 align="center">👩‍💻 Hello, World! 🌍</h1>
 
-## Eu sou a **Patrícia de Oliveira** ♈✨
+## I am **Patrícia de Oliveira** ♈✨
 
 -   🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.
 - 📫 Contato: **patysavarezi@hotmail.com**
