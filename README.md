@@ -5,7 +5,7 @@
 ## I am **Patrícia de Oliveira** ♈✨
 
 -   🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.
-- 📫 Contato: **patysavarezi@hotmail.com**
+- 📫 Contato: **patriciasavarezioliveira@gmail.com**
 - 🔗 LinkedIn: <a href="https://www.linkedin.com/in/savarezi" target="_blank" style="vertical-align:middle;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" />
 </a> [Clique aqui](https://www.linkedin.com/in/savarezi) 
