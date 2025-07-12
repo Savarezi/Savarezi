@@ -10,8 +10,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" />
 </a> [Clique aqui](https://www.linkedin.com/in/savarezi) 
 - 📊 Tableau: [Clique aqui](https://public.tableau.com/app/profile/patricia.oliveira8640/vizzes)
-- ♾️ Plataforma de Estudos - [Infinity Big Data | Patrícia Oliveira](https://meuscursos.infinitybigdata.com/u/patyoliver)
-- ♾️ Plataforma de Estudos - [DIO | Patrícia Savarezi Oliveira](https://www.dio.me/users/patriciasavarezioliveira)
+- ♾️ Plataforma de Estudos - [Infinity Big Data | Patrícia Oliveira](https://meuscursos.infinitybigdata.com/u/patyoliver)  
+- 🧠 Plataforma de Estudos - [DIO | Patrícia Savarezi Oliveira](https://www.dio.me/users/patriciasavarezioliveira)  
+- ☁️ Plataforma de Estudos - [AWS Skill Builder](https://skillbuilder.aws/learn)
+
 
 
 - 😄 Pronomes: **Ela/Dela** 🏳️‍⚧️
