@@ -4,70 +4,60 @@
 
 ## I am **Patrícia de Oliveira** ♈✨
 
--   🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.
-- 📫 Contato: **patriciasavarezioliveira@gmail.com**
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/savarezi" target="_blank" style="vertical-align:middle;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" />
-</a> [Clique aqui](https://www.linkedin.com/in/savarezi) 
-- 📊 Tableau: [Clique aqui](https://public.tableau.com/app/profile/patricia.oliveira8640/vizzes)
+- 🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.  
+- 📊 Tableau: [Clique aqui](https://public.tableau.com/app/profile/patricia.oliveira8640/vizzes)  
 - ♾️ Plataforma de Estudos - [Infinity Big Data | Patrícia Oliveira](https://meuscursos.infinitybigdata.com/u/patyoliver)  
 - 🧠 Plataforma de Estudos - [DIO | Patrícia Savarezi Oliveira](https://www.dio.me/users/patriciasavarezioliveira)  
-- ☁️ Plataforma de Estudos - [AWS Skill Builder](https://skillbuilder.aws/learn)
-
-
-
+- ☁️ Plataforma de Estudos - [AWS Skill Builder](https://skillbuilder.aws/learn)  
 - 😄 Pronomes: **Ela/Dela** 🏳️‍⚧️
-
 
 ---
 
-### 🚀 Skills
+## 🛠 &nbsp;Languages & Techs
+
+### Tools
+
+[![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/Savarezi)
+
+### Back-end
+
+[![Back-end Development Skills](https://skillicons.dev/icons?i=python,django,c,cs,java,spring,php)](https://github.com/Savarezi)
+
+### Front-end
+
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,bootstrap)](https://github.com/Savarezi)
+
+### Database
+
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://github.com/Savarezi)
+
+---
+
+### 📊 Bibliotecas de Dados
 
 <div style="display: inline_block">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="40"<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="100"/>
-  <img align="center" alt="React" height="30" width="80" <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/>
-  <img align="center" alt="React" height="30" width="80" <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="100"/>
-  <img align="center" alt="React" height="30" width="40"<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  <img align="center" alt="React" height="30" width="100"<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="100"/>
-  <img align="center" alt="React" height="30" width="80"<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/>
-  
-
-
-
-
-  
-
-  
-
-
-
-
-
-
-
-
-
-
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="90"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
+  <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"/>
+  <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="120"/>
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/>
 </div>
 
 ---
 
-### ⚡ GitHub Stats
-![Savarezi GitHub stats](https://github-readme-stats.vercel.app/api?username=Savarezi&show_icons=true&theme=tokyonight)
+### 📬 Conecte-se comigo:
+
+<a href = "mailto:patriciaoliveirasavarezi@gmail.com"><img src="https://img.shields.io/badge/-Email-67cb57?style=for-the-badge&logo=gmail&logoColor=fff"></a>
+<a href="https://www.linkedin.com/in/savarezi"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 
 ---
+
+
 
 ### ✨ Frase  
 
 > *"Programar é como resolver um quebra-cabeça infinito!"*  
-
 
 ---
 
