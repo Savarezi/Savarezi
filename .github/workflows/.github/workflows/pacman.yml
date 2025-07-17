@@ -1,0 +1,29 @@
+name: Generate Pac-Man Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Pac-Man
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man SVG
+        uses: yoshi389111/github-contribution-grid-snake@main
+        with:
+          github_user_name: Savarezi
+          svg_out_path: dist/pacman-contribution-graph.svg
+          dark_svg_out_path: dist/pacman-contribution-graph-dark.svg
+          format: pacman
+
+      - name: Push generated SVG
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: 'dist'
+          message: 'Generated Pac-Man Contribution Graph'
+          default_author: github_actions
