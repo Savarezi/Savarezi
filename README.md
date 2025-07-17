@@ -12,6 +12,13 @@
 - 😄 Pronomes: **Ela/Dela** 🏳️‍⚧️
 
 ---
+### 📬 Conecte-se comigo:
+
+<a href = "mailto:patriciaoliveirasavarezi@gmail.com"><img src="https://img.shields.io/badge/-Email-67cb57?style=for-the-badge&logo=gmail&logoColor=fff"></a>
+<a href="https://www.linkedin.com/in/savarezi"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
+
+---
+
 
 ## 🛠 &nbsp;Languages & Techs
 
@@ -33,27 +40,6 @@
 
 ---
 
-### 📊 Bibliotecas de Dados
-
-<div style="display: inline_block">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="90"/>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="90"/>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  <img align="center" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100"/>
-  <img align="center" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width="120"/>
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="70"/>
-</div>
-
----
-
-### 📬 Conecte-se comigo:
-
-<a href = "mailto:patriciaoliveirasavarezi@gmail.com"><img src="https://img.shields.io/badge/-Email-67cb57?style=for-the-badge&logo=gmail&logoColor=fff"></a>
-<a href="https://www.linkedin.com/in/savarezi"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
-
----
-
-
 
 ### ✨ Frase  
 
@@ -61,8 +47,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Savarezi/count.svg" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=footer"/>
