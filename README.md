@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff&height=120&section=header"/>
 
 <h1 align="center">👩‍💻 Hello, World! 🌍</h1>
+<h3 align="center">Welcome to my GitHub profile! ✨</h3>
+
 
 ## I am **Patrícia de Oliveira** ♈✨
 
