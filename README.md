@@ -7,7 +7,6 @@
 ## I am **Patrícia de Oliveira** ♈✨
 
 - 🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.  
-- ♾️ Plataforma de Estudos - [Infinity Big Data | Patrícia Oliveira](https://meuscursos.infinitybigdata.com/u/patyoliver)  
 - 🧠 Plataforma de Estudos - [DIO | Patrícia Savarezi Oliveira](https://www.dio.me/users/patriciasavarezioliveira)  
 - ☁️ Plataforma de Estudos - [AWS Skill Builder](https://skillbuilder.aws/learn)  
 - 😄 Pronomes: **Ela/Dela** 🏳️‍⚧️
