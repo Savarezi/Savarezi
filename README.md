@@ -51,6 +51,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savarezi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savarezi&layout=compact&langs_count=6&theme=merko"/>
 </a>
+---
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2845e6fd-e227-42f0-91ee-e90392ff4af3" />
+
+
+
+
 
 
 ### ✨ Frase  
