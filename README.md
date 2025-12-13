@@ -3,9 +3,16 @@
 <h1 align="center">👩‍💻 Hello, World! 🌍</h1>
 <h3 align="center">Welcome to my GitHub profile! ✨</h3>
 
+<h2>
+  I am <strong>Patrícia de Oliveira</strong>
+  <img
+    src="https://github.com/user-attachments/assets/c3a37433-d1b6-4bc8-90fc-4e6d8f064d1c"
+    alt="Patrícia"
+    style="width:60px; vertical-align: middle;"
+  />
+</h2>
 
-## I am **Patrícia de Oliveira** ♈✨
-
+--
 - 🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.  
 - 🧠 Plataforma de Estudos - [DIO | Patrícia Savarezi Oliveira](https://www.dio.me/users/patriciasavarezioliveira)  
 - ☁️ Plataforma de Estudos - [AWS Skill Builder](https://skillbuilder.aws/learn)  
@@ -53,9 +60,11 @@
 </a>
 ---
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2845e6fd-e227-42f0-91ee-e90392ff4af3" />
-
-
+<img
+  src="https://github.com/user-attachments/assets/2845e6fd-e227-42f0-91ee-e90392ff4af3"
+  alt="image"
+  style="width:120px;"
+/>
 
 
 
