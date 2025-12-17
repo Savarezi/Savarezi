@@ -51,13 +51,13 @@
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://github.com/Savarezi)
 
 ---
-
 <img 
   src="https://github.com/user-attachments/assets/8470ff13-6e71-4360-b81d-d5222a265092"
   alt="aws-re-start-graduate"
   width="300"
 />
 
+---
 
 ## ⭐️ &nbsp;GitHub Stats
 
