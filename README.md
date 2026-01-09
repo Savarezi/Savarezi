@@ -54,25 +54,10 @@
 <img 
   src="https://github.com/user-attachments/assets/8470ff13-6e71-4360-b81d-d5222a265092"
   alt="aws-re-start-graduate"
-  width="300"
+  width="100"
 />
 
 ---
-
-## ⭐️ &nbsp;GitHub Stats
-
-<a href="https://github.com/Savarezi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Savarezi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savarezi&layout=compact&langs_count=6&theme=merko"/>
-</a>
----
-
-<img
-  src="https://github.com/user-attachments/assets/2845e6fd-e227-42f0-91ee-e90392ff4af3"
-  alt="image"
-  style="width:120px;"
-/>
-
 
 
 
