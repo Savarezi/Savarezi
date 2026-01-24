@@ -38,7 +38,6 @@
 
 [![Development Tools](https://skillicons.dev/icons?i=docker,postman,git,github,figma,vercel,cypress,apple,windows,vscode,idea,npm,pnpm,bash)](https://github.com/Savarezi)
 
-### Back-end
 
 [![Back-end Development Skills](https://skillicons.dev/icons?i=python,django,c,cs,java,spring,php)](https://github.com/Savarezi)
 
@@ -48,7 +47,9 @@
 
 ### Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite)](https://github.com/Savarezi)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,supabase)](https://github.com/Savarezi)
+
+
 
 ---
 <img 
