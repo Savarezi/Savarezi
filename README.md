@@ -25,9 +25,9 @@
   <img src="https://img.shields.io/badge/-LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=fff">
 </a>
 
-<a href="https://discord.gg/nGV6mJyA">
-  <img src="https://img.shields.io/badge/-Discord-6f42c1?style=for-the-badge&logo=discord&logoColor=fff">
-</a>
+---
+ 🌐 [Portfólio Online](https://patriciaoliveiradev.netlify.app/)
+---
 
 ##
 
