@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#0201d8&height=220&section=header"/>
 
 <h1 align="center">👩‍💻 Hello, World! 🌍</h1>
 <h3 align="center">Welcome to my GitHub profile! ✨</h3>
@@ -69,7 +69,7 @@
 > *"Programar é como resolver um quebra-cabeça infinito!"*  
 
 ---
-![Footer Roxo Ondas para Cima](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer&flip=true)
+
 
 
 
