@@ -21,7 +21,6 @@
 --
 - 🌱 Formada em **Análise de Dados com Python** 🐍📊 e estudante de **Análise e Desenvolvimento de Sistemas** 💻📚.  
 - 💻 Desenvolvimento de Software, Dados e Automação de Processos
-  - Certificado: [DiverseDEV 2025](https://site.ada.tech/certificado?code=db620b45-ada9-49af-ac35-a9d09f127a49)  
 - ☁️ Programa **AWS re/Start** — Escola da Nuvem  
 - 🤖 Automação com **N8N**, IA, APIs e Workflows Automatizados   
 - 😄 Pronomes: **Ela/Dela** 🏳️‍⚧️
