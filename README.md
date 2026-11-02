@@ -33,7 +33,7 @@
 </a>
 
 ---
- 🌐 [Portfólio Online](https://https://patyalves.netlify.app/)
+ 🌐 [Portfólio Online](https://patyalves.netlify.app/)
 ---
 
 ##
